@@ -1,5 +1,7 @@
 'use strict'
 
+// Mix for e includes
+
 const movies = [
     {title: 'Madaraspar', duration: 192, categories: ['comedia', 'aventura']},
     {title: 'Spiderpan', duration: 122, categories: ['aventura', 'acción']},
